@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
-import Login from './components/Login';
-import UserProfile from './components/UserProfile';
+import Login from './pages/Login';
+import UserProfile from './pages/UserProfile';
 import { UserProvider, useUser } from './context/UserContext';
 
 const App: React.FC = () => {
