@@ -3,7 +3,7 @@
 
 
 # Результат
-![](D:\projects\mono-users\result.gif)
+![](https://github.com/DiZiNnEs/mono-users-tz/blob/master/result.gif)
 
 
 
